@@ -1,7 +1,6 @@
-## Hi there 👋
-## I'm Khairunnizam
+## Hi there 👋, I'm Khairunnizam
 <p>
-   I love fried chikin <br>
+   I love Chickin <br>
 </p>
 
 
